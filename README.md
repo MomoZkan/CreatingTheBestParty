@@ -1,0 +1,2 @@
+# CreatingTheBestParty
+ポケモンGOの3匹のパーティを作ってくれるツールです。
